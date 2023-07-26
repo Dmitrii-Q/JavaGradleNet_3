@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g8hi2ghq6o4xargv?svg=true)](https://ci.appveyor.com/project/Dmitrii-Q/javagradlenet-02rest)
