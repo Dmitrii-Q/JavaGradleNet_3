@@ -28,7 +28,7 @@ class MobileBankApiTestV4 {
                 .body("[0].name",equalTo("Текущий счёт"))
                 .body("[0].balance",equalTo(992821429))
                 .body("[0].number",equalTo("•• 0668"))
-                .body("[0].currency",equalTo("RUR"))
+                .body("[0].currency",equalTo("RUB"))
                 .body("[1].currency",equalTo("USD"))
 
         ;
